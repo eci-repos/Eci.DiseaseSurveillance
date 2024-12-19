@@ -1,5 +1,5 @@
 ﻿# Disease Surveillance
-_(based on the Edam.DiseaseSuerveillance work)_ 
+_(based on the Edam.DiseaseSurveillance work)_ 
 
 CDC Communicable Disease Surveillance
 
