@@ -348,5 +348,6 @@
     <None Include="Documentation\eci.hc.cd.dictionary.xlsx" />
     <None Include="Documentation\eci.hc.cd.lexicon.xlsx" />
     <None Include="Documentation\eci.hc.cd.schema.xlsx" />
+    <None Include="Documentation\Disease Surveillance Repository.docx" />
   </ItemGroup>
 </Project>
