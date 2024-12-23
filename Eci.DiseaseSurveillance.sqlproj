@@ -90,8 +90,6 @@
     <Folder Include="Other\Tables" />
     <Folder Include="Provider" />
     <Folder Include="Provider\Tables" />
-    <Folder Include="PublicSafety" />
-    <Folder Include="PublicSafety\Tables" />
     <Folder Include="Scripts" />
     <Folder Include="Scripts\Post Deployment" />
     <Folder Include="Scripts\PowerScript" />
@@ -275,7 +273,6 @@
     <Build Include="Message\Tables\Submission.sql" />
     <Build Include="Provider\Tables\Provider_Code.sql" />
     <Build Include="Provider\Tables\Provider_Reference.sql" />
-    <Build Include="PublicSafety\Tables\Incident.sql" />
     <None Include="Scripts\Sql-Scripts\00010 - Data Initialization.sql" />
     <None Include="Scripts\Sql-Scripts\00020 - Action Resources.sql" />
     <None Include="Scripts\Sql-Scripts\00030 - Article Resources.sql" />
@@ -344,10 +341,12 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Documentation\RVCT - Report of Verified Case of Tuberculosis .v0.docx" />
     <None Include="Scripts\PowerScript\dbinit.ps1" />
     <None Include="Use Cases\Case Management\UCCM-0001 - Person Walks-In to get Info.docx" />
     <None Include="Use Cases\Requirements\General Requirements.docx" />
     <None Include="Eci.DiseaseSurveillance.publish.xml" />
+    <None Include="Documentation\eci.hc.cd.dictionary.xlsx" />
+    <None Include="Documentation\eci.hc.cd.lexicon.xlsx" />
+    <None Include="Documentation\eci.hc.cd.schema.xlsx" />
   </ItemGroup>
 </Project>
